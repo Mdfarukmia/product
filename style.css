@@ -1,0 +1,51 @@
+.nav ul a{
+    color: black;
+    font-size: large;
+}
+.right-nav{
+   
+}
+#canone , #space{
+  margin-bottom: 20px;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+.btn{
+    background-color: red;
+    color: white;
+}
+
+
+.point{
+    cursor: pointer;
+    text-decoration: none;
+}
+.line{
+    width: 90px;
+    height: 10px;
+    background-color: red;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+.line-box{
+    text-align: center;
+}
+.box{
+    width: 170px;
+    height: 170px;
+    /* background-color: red; */
+     margin: 20px;
+     box-shadow: 1px 1px 10px black;
+}
+.row{
+
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#not{
+    margin-bottom: 20px;
+}
